@@ -35,4 +35,4 @@ You can reach out to me via email at [kuldeepgurjar2468@gmail.com] or connect wi
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kuldeep246&show_icons=true&theme=radical)
 
 Thank you for visiting my GitHub profile! 😊 Let's code something amazing together! 🚀
-(https://komarev.com/ghpvc/?username=kuldeep246&color=FAC151)
+![Profile View](https://komarev.com/ghpvc/?username=kuldeep246&color=FAC151)
