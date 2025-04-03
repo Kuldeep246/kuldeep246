@@ -21,9 +21,6 @@ Welcome to my GitHub profile! I'm passionate about creating robust and efficient
 
 I believe in continuous learning to stay up-to-date with the latest technologies. Currently, I am diving deeper into Devops.
 
-## 📫 Contact
-
-You can reach out to me via email at [kuldeepgurjar2468@gmail.com] or connect with me on [LinkedIn](https://www.linkedin.com/in/kuldeep-singh-8b4313225/).
 
 ## 🔗 Connect with Me
 
